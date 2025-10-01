@@ -10,6 +10,7 @@ const meetLink = "https://meet.google.com/gir-rwag-sup";
 
 const users = ["@Soheilsmax", "@hot_achilles", "@A8amirreza", "@FolicTheAcid","@Maniv83","@OmidRezaAzizAbady","@Parsa_k_81","@vedady"];
 
+
 bot.on("message", (msg) => {
   const chatId = msg.chat.id;
   const userInformation = msg.chat;

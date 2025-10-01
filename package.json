@@ -1,7 +1,7 @@
 {
   "name": "telegram-meet-bot",
   "version": "1.0.0",
-  "description": "Telegram bot for sending Google Meet link to group with a button",
+  "description": "Telegram bot for sending Google Meet link to group with a button a",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
